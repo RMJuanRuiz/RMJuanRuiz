@@ -1,8 +1,8 @@
 ### Hi there, I'm Juan 👋
 
 ## I'm a Full Stack Developer
-- 🔭 I’m currently learning Node.js and Angular
-- 🥅 2020 Goals: Improve my skills in JavaScript
+- 🔭 I'm focused on Node.js and Angular
+- 🥅 2020 Goals: Improve english skills and learn JavaScript in depth.
 - ⚡ Fun fact: I love to play videogames and I'm trying to exercise frequently🤣
 
 ### Connect with me:
@@ -17,7 +17,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://user-images.githubusercontent.com/49765252/89719692-9f56b800-d990-11ea-8272-0d6a337b42bd.png" />
+<img align="left" alt="Node.js" width="46px" src="https://user-images.githubusercontent.com/49765252/89719692-9f56b800-d990-11ea-8272-0d6a337b42bd.png" />
 <img align="left" alt="Angular" width="26px" src="https://user-images.githubusercontent.com/49765252/89719490-7cc39f80-d98e-11ea-9466-fc92512fc5ba.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="36px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
