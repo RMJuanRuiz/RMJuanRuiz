@@ -1,9 +1,9 @@
 ### Hi there, I'm Juan 👋
 
 ## I'm a Full Stack Developer
-- 🔭 I'm focused on Node.js and Angular
-- 🥅 2020 Goals: Improve english skills and learn JavaScript in depth.
-- ⚡ Fun fact: I love to play videogames and I'm trying to exercise frequently🤣
+- 🔭 I'm focused on Angular and Node.js
+- 🥅 2021 Goals: Improve english skills and learn JavaScript in depth.
+- ⚡ Fun fact: I love to play competitive videogames and I'm trying to exercise frequently🤣
 
 ### Connect with me:
 [<img align="left" alt="Juan Ruiz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
