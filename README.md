@@ -2,8 +2,8 @@
 
 ## I'm a Frontend Developer
 - 🔭 I'm focused on Angular and Node.js
-- 🥅 2021 Goals: Improve english skills and learn JavaScript in depth.
-- ⚡ Fun fact: I love to play competitive videogames and dance salsa.
+- 🥅 2023 Goals: Improve english skills and continue learning JavaScript and Angular in depth.
+- ⚡ Fun fact: I love to dance salsa and play competitive videogames
 
 ### Connect with me:
 [<img align="left" alt="Juan Ruiz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
