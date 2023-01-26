@@ -1,7 +1,7 @@
 ### Hi there, I'm Juan 👋
 
 ## I'm a Frontend Developer
-- 🔭 I'm focused on Angular and Node.js
+- 🔭 I'm focused on Angular
 - 🥅 2023 Goals: Improve english skills and continue learning JavaScript and Angular in depth.
 - ⚡ Fun fact: I love to dance salsa and play competitive videogames
 
