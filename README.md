@@ -2,7 +2,7 @@
 
 ## I'm a Frontend Developer
 - 🔭 I'm focused on Angular
-- 🥅 2023 Goals: Improve english skills and continue learning JavaScript and Angular in depth.
+- 🥅 2024 Goals: Improve english skills and continue learning JavaScript and Angular/React in depth.
 - ⚡ Fun fact: I love to dance salsa and play competitive videogames
 
 ### Connect with me:
